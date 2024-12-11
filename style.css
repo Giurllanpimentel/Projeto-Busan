@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    background-color: #29292E;
+}
+
+.container{
+    background-color: white;
+    width: 1120px;
+    margin: 80px auto;
+}
+
+main{
+    padding: 88px 80px;
+
+    h2{
+        margin-bottom: 8px;
+        color: #E1624F;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    h1{
+        margin-bottom: 44px;
+        color: #1B1B1B;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+    }
+
+    p{
+        height: 37px;
+        text-align: center;
+        font-size: 16px;
+        font-style: italic;
+        font-weight: 400;
+        padding-top: 24px;
+        width: 100%;
+        line-height: normal;
+    }
+
+    > img{
+        width: 100%;
+    }
+
+   hr{
+    margin-top: 60px;
+   }
+
+}
+
+.parte2{
+    padding: 104px 80px;
+    margin-top: -64px;
+
+    span{
+        color: #E1624F;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        margin-bottom: 2px;
+    }
+
+    h2{
+        color: #1B1B1B;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        margin-bottom: 8px;
+    }
+
+    p{
+        color: #333;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        width: 100%;
+        margin-bottom: 64px;
+    }
+
+    > img{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .textp{
+        margin-bottom: 20px;
+        margin-top: 5px;
+    }
+}
+
+.parte3{
+    padding: 48px 80px;
+    
+    h3{
+        margin-top: 20px;
+        margin-bottom: 4px;
+    }
+
+    p{
+        margin-bottom: 20px;
+    }
+    
+    >img{
+        width: 100%;
+    }
+}
+
+.parte4{
+    padding: 48px 80px;
+
+    h3{
+        margin-top: 20px;
+        margin-bottom: 4px;
+    }
+
+    p{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    > img{
+        width: 100%;
+    }
+}
+
+.parte5{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 69px;
+}
+
+footer{
+    text-align: center;
+
+    > img{
+        vertical-align: middle;
+    }
+}
